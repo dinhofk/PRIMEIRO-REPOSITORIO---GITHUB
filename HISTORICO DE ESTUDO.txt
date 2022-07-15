@@ -1,0 +1,174 @@
+# CURSO FULLSTACK DEVELOPER
+
+## MODULO I
+
+* CURSO 
+  * Boas vindas ao TQI FULLSTACK DEVELOPER
+
+* MENTORIA (LIVE)
+  		* Aula inaugural -TQI FULLSTACK DEVELOPER
+
+## seja protagonista neste bootcamp
+
+* Apresentacao e objetivo geral
+
+* percurso
+
+* desvendando os bootcamps DIO
+
+  * bootcamp DIO - nossa metodologia de ensino
+
+  * bootcamp DIO - conhecendo nossa plataforma
+
+    
+
+* DESAFIOS DE PROJETOS
+
+  * desafio de projetos
+
+  * desfios de projeto - entendendo na platica
+
+     
+
+* DICAS FINAIS E CONCLUSAO
+
+  * dicas finais e conclusao
+
+    
+
+## INTRODUCAO A PROGRAMACAO E PENSAMENTO COMPUTACIONAL
+
+### PENSAMENTO COMPUTACIONAL
+
+* Apresentacao
+
+* introducao
+
+* habilidades complementares
+
+* pilares: decomposicao
+
+* pilares: padroes
+
+* pilares: abstracao
+
+* pilares: algoritimos
+
+* estudo de caso conceitual: perdido
+
+* estudo de caso aplicado: soma de um intervalo
+
+* estudo de caso aplicado: adivinhe um numero
+
+  
+
+### INTRODUCAO A LOGICA DE PROGRAMACAO
+
+* o que e logica
+
+* tecnicas de logica de programacao
+
+  
+
+### FUNDAMENTOS DE ALGORITIMOS
+
+* tipologia e variaveis
+
+* intrucoes primitivas
+
+* estruturas condicionais e operadores
+
+* estruturas de repeticao
+
+* vetores e matrizes
+
+* oque sao funcoes
+
+* instrucao de entrada/saida
+
+  
+
+### LINGUAGENS DE PROGRAMACAO
+
+* introducao a linguagem de programacao
+
+* como um computador entende um programa
+
+* caracteristicas de um programa
+
+* analises de codigo
+
+* paradigmas de programacao
+
+  
+
+### PRIMEIRO CONTATO COM PROGRAMACAO
+
+* algoritimos em portugol
+* consideracoes finais
+* materiais de apoio (baixado)
+* certifique seu conhecimento (FEITO)
+
+## INTRODUCAO AO GIT/GITHUB
+
+### INTRODUCAO AO GIT
+
+* entendendo o que e o Git e sua importancia
+
+  
+
+### NAVEGACAO VIA COMMAND LINE INTERFACE E INTALACAO
+
+* comandos basicos para um bom desempenho no terminal
+
+* realizando a instalacao do Git
+
+  
+
+### ENTENDENDO COMO O GIT FUNCIONA POR BAIXO DOS PANOS
+
+* topicos fundamentais para entender o funcionamento do Git
+
+* objetos internos do Git
+
+* chave ssh e token
+
+  
+
+### PRIMEIROS COMANDOS COM O GIT
+
+* iniciando o Git e criando um commit
+
+  
+
+### CICLO DE VIDA DOS ARQUIVOS NO GIT
+
+* ciclo de vida dos arquivo no Git
+
+  
+
+### INTRODUCAO AO GITHUB
+
+* trabalhando com o github
+
+  
+
+### RESOLVENDO CONFLITOS
+
+* como os conflitos acontecem no github e como resolvelos
+
+* certifique seu conhecimento (FEITO)
+
+  
+
+## CRIANDO SEU PRIMEIRO REPOSITORIO NO GITHUB PARA COMPARTILHAR SEU PROGRESSO
+
+* introducao e apresentacao do projeto
+
+* Git e GitHub: relembrando algumas coisinhas
+
+* desafio de projeto
+
+* entendendo o projeto
+
+  
