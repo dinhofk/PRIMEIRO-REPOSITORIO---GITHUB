@@ -172,3 +172,79 @@
 * entendendo o projeto
 
   
+
+## MODULOII - HTML5/CSS3
+
+## INTRODUCAO E CRIACAO DE WEBSITES COM HTML5 E CSS3
+
+### INTRODUCAO AO CURSO DE HTML
+
+* estrutura basica
+
+* material de apoio
+
+  
+
+### ENTENDENDO OQUE E SEMANTICA
+
+* semantica - parte 1
+
+* semantica - parte 2
+
+  
+
+### COMO USAR TEXTOS E LINKS EM HTML
+
+* tags para textos
+
+* tags para links
+
+* exercicio pratico
+
+  
+
+### COMO INSERIR IMAGENS EM SEU SITE
+
+* tag img
+
+* exercicio pratico
+
+  
+
+### COMO ORGANIZAR LISTAS COM HTML
+
+* tags LI, UL E OL
+
+* exercicio pratico
+
+* certifique seu conhecimento
+
+  
+
+### INTRODUCAO AO CSS3
+
+* introducao ao css3
+
+* conceitos basicos
+
+* material de apoio
+
+  
+
+### ESTILIZANDO ELEMENTOS DE TEXTO
+
+* estilizando elementos
+
+* estilizando textos
+
+* estilizando listas
+
+  
+
+### DIMENSOES E ALINHAMENTOS
+
+* propriedades de dimensoes e alinhamento
+
+* certifique seu conhecimento
+
+  
